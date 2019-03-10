@@ -117,7 +117,7 @@ See also: [Building your first Flatpak](http://docs.flatpak.org/en/latest/first-
 
 ### Is this freeware?
 
-Yes.
+[Yes](https://www.xnview.com/en/xnretro/#downloads).
 
 ### Are you the author of XnRetro?
 
